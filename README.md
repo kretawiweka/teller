@@ -1,3 +1,3 @@
-# Reason React Starter
+# teller
 
-    // Todo : Create description of this repository
+teller is application that makes you seem to have a personal teller
